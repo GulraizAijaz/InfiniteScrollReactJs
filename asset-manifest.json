@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InfiniteScrollReactJs/static/css/main.4dcb4492.css",
+    "main.js": "/InfiniteScrollReactJs/static/js/main.b9ca244b.js",
+    "static/js/453.57b1255d.chunk.js": "/InfiniteScrollReactJs/static/js/453.57b1255d.chunk.js",
+    "index.html": "/InfiniteScrollReactJs/index.html",
+    "main.4dcb4492.css.map": "/InfiniteScrollReactJs/static/css/main.4dcb4492.css.map",
+    "main.b9ca244b.js.map": "/InfiniteScrollReactJs/static/js/main.b9ca244b.js.map",
+    "453.57b1255d.chunk.js.map": "/InfiniteScrollReactJs/static/js/453.57b1255d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dcb4492.css",
+    "static/js/main.b9ca244b.js"
+  ]
+}
